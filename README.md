@@ -14,7 +14,7 @@ This demo app has following feature implemented.
 
 Icons used in this app are from Font Awesome [http://fontawesome.io/icons/]
 
-Screenshots:
+Screenshots on Phone And Desktop:
 
 Menu:
 
