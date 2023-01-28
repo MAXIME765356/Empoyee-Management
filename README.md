@@ -14,15 +14,19 @@ Screenshots:
 
 Menu:
 
-![Screenshot_20230119-164528](https://user-images.githubusercontent.com/117815821/215269123-fdc96366-8a8b-448a-86e2-5e7eb09260f5.png)
-
 
 ![Capture d’écran (139)](https://user-images.githubusercontent.com/117815821/215269062-b8a301f6-2a0a-408f-a575-897bc94c6005.png)
+
+
+![Screenshot_20230119-164528](https://user-images.githubusercontent.com/117815821/215269123-fdc96366-8a8b-448a-86e2-5e7eb09260f5.png)
 
 
 Sqlite Crud services
 
 ![Screenshot_20230119-164604](https://user-images.githubusercontent.com/117815821/215269148-05c14af8-9eae-4208-9389-d084ee530f9f.png)
+
+![Capture d’écran (144)](https://user-images.githubusercontent.com/117815821/215269925-df3c725e-cb0d-4faf-93d2-dfea782d6027.png)
+
 
 Permanent Employee:
 
