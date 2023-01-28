@@ -3,6 +3,10 @@ Simple app with SQLITE backend for user manipulation
 
 This app demonstarte how we can use SQLITE database as a backend for our QML application .
 
+Uses QT 5.12.11
+
+To use open the .pro file from Qt Creator
+
 This demo app has following feature implemented.
 * Updateing 
 * Creating
