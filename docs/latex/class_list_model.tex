@@ -1,0 +1,73 @@
+\hypertarget{class_list_model}{}\section{List\+Model Class Reference}
+\label{class_list_model}\index{List\+Model@{List\+Model}}
+Inheritance diagram for List\+Model\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_list_model}
+\end{center}
+\end{figure}
+\subsection*{Public Types}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_list_model_a878f6de48ea8627511fe16821149bf65}\label{class_list_model_a878f6de48ea8627511fe16821149bf65}} 
+enum {\bfseries Roles} \{ \newline
+{\bfseries Id\+Role} = Qt\+:\+:User\+Role + 1, 
+{\bfseries Name\+Role}, 
+{\bfseries Department\+Role}, 
+{\bfseries Gender\+Role}, 
+\newline
+{\bfseries Job\+\_\+position\+Role}
+ \}
+\end{DoxyCompactItemize}
+\subsection*{Public Slots}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_list_model_aca658eddcc300788b566f3c698b6a296}\label{class_list_model_aca658eddcc300788b566f3c698b6a296}} 
+void {\bfseries update\+Model} ()
+\item 
+\mbox{\Hypertarget{class_list_model_a9671f673440a893fe72b393df53d32f8}\label{class_list_model_a9671f673440a893fe72b393df53d32f8}} 
+void {\bfseries update\+Data} ()
+\item 
+\mbox{\Hypertarget{class_list_model_ad52415be6403eae2c4b5b38bed922fb9}\label{class_list_model_ad52415be6403eae2c4b5b38bed922fb9}} 
+int {\bfseries get\+Id} (int row)
+\item 
+\mbox{\Hypertarget{class_list_model_a418107418cbddf6f96e245df2f3464af}\label{class_list_model_a418107418cbddf6f96e245df2f3464af}} 
+Q\+String {\bfseries get\+Name} (int row)
+\item 
+\mbox{\Hypertarget{class_list_model_a56818d355bcd0978ff89d01327e899d6}\label{class_list_model_a56818d355bcd0978ff89d01327e899d6}} 
+Q\+String {\bfseries get\+Department} (int row)
+\item 
+\mbox{\Hypertarget{class_list_model_ab1396f72e481816fcb30cdf67d90cda4}\label{class_list_model_ab1396f72e481816fcb30cdf67d90cda4}} 
+Q\+String {\bfseries get\+Gender} (int row)
+\item 
+\mbox{\Hypertarget{class_list_model_a5374a643c5726f7ae9157cad07b66703}\label{class_list_model_a5374a643c5726f7ae9157cad07b66703}} 
+Q\+String {\bfseries get\+Job\+\_\+position} (int row)
+\end{DoxyCompactItemize}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_list_model_a26cd1a0d21d6015d4847774acfe9a716}\label{class_list_model_a26cd1a0d21d6015d4847774acfe9a716}} 
+{\bfseries List\+Model} (Q\+Object $\ast$parent=0)
+\item 
+\mbox{\Hypertarget{class_list_model_a75ad769eac92db357d5a9fbedd9c2bc4}\label{class_list_model_a75ad769eac92db357d5a9fbedd9c2bc4}} 
+Q\+Variant {\bfseries data} (const Q\+Model\+Index \&index, int role=Qt\+::\+Display\+Role) const
+\end{DoxyCompactItemize}
+\subsection*{Protected Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_list_model_ac58278766ba826b23cc5949fbef16362}\label{class_list_model_ac58278766ba826b23cc5949fbef16362}} 
+Q\+Hash$<$ int, Q\+Byte\+Array $>$ {\bfseries role\+Names} () const
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+
+
+Definition at line 8 of file listmodel.\+h.
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+headers/listmodel.\+h\item 
+sources/listmodel.\+cpp\end{DoxyCompactItemize}

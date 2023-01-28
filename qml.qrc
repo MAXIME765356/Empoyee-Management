@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icon/fontawesome-webfont.ttf</file>
+        <file>qml/LogInPage.qml</file>
+        <file>qml/RegisterScreen.qml</file>
+        <file>qml/CButton.qml</file>
+        <file>js/backend.js</file>
+        <file>qml/Update.qml</file>
+        <file>qml/Employee.qml</file>
+        <file>qml/Delete.qml</file>
+        <file>Images/Corporate Management.png</file>
+        <file>qml/menu.qml</file>
+        <file>qml/contract.qml</file>
+        <file>qml/addcontract.qml</file>
+        <file>qml/attendance.qml</file>
+        <file>qml/about.qml</file>
+        <file>Images/cpp.png</file>
+        <file>Images/css.png</file>
+        <file>Images/qt.png</file>
+        <file>Images/sqlite.jpg</file>
+        <file>qml/salesman.qml</file>
+        <file>qml/addsales.qml</file>
+        <file>Images/Attendance-Monitoring560.png</file>
+         <file>Images/add.png</file>
+         <file>Images/edit.png</file>
+         <file>Images/remove.png</file>
+         <file>Images/users.png</file>
+         <file>Images/user_add.png</file>
+         <file>Images/user_edit.png</file>
+         <file>Images/user_remove.png</file>
+         <file>Images/exit.png</file>
+         <file>Images/user_ok.png</file>
+         <file>Images/user_menu.png</file>
+        <file>Images/trolley.png</file>
+        <file>Images/ok.png</file>
+         <file>Images/cancel.png</file>
+        <file>qml/addattendance.qml</file>
+    </qresource>
+</RCC>
